@@ -1,18 +1,30 @@
-layout_spectrum: 0.6767628719098866
-typography_spectrum: 0.18187371594831347
-color:
-  brandStrength: 0.29339639469981194
-  lightness: 0.9798568501137197
-  saturation: 0.6525228160899132
-  rhythmicContrast: 0.053663608618080616
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-name: Deryck Lio
 author:
   name: Deryck Lio
   email: d@derycklio.com
   url: 'http://www.derycklio.com'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6525228160899132
+  brandStrength: 1
+  lightness: 0.9798568501137197
+  brandColors:
+    - '#030102'
+    - '#FBF8E8'
+    - '#9E664B'
+    - '#DBA580'
+    - '#3C401D'
+  rhythmicContrast: 0.05366360861808062
+typography_spectrum: 0.6039426
+layout_spectrum: 0
+name: Deryck Lio
