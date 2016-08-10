@@ -1,3 +1,7 @@
+name: Deryck Lio
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.6039426
 author:
   name: Deryck Lio
   email: d@derycklio.com
@@ -14,17 +18,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Deryck Lio
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6525228160899132
-  brandStrength: 1
-  lightness: 0.9798568501137197
   brandColors:
     - '#030102'
     - '#FBF8E8'
     - '#9E664B'
     - '#DBA580'
     - '#3C401D'
+  brandStrength: 1
+  lightness: 0.9798568501137197
+  saturation: 0.6525228160899132
   rhythmicContrast: 0.05366360861808062
-typography_spectrum: 0.6039426
-layout_spectrum: 0
-name: Deryck Lio
+purpose: []
